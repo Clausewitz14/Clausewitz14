@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Clausewitz14</h1>
-<h3 align="center">A frontend and soon-to be ML programmer</h3>
+<h3 align="center">A Python and soon-to be ML programmer</h3>
 <img align="right" alt="Coding" width="400" src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.IRFhWNqusUWbTsB1hQXhrQHaEI%26pid%3DApi&f=1">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=clausewitz14&label=Profile%20views&color=0e75b6&style=flat" alt="clausewitz14" /> </p>
