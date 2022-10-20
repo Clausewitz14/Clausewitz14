@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=clausewitz14" alt="clausewitz14" /></a> </p>
 
-- 🔭 I’m currently working on **Tensorflow and Python Machine Learning**
+- 🔭 I’m currently working on **weird side projects**
 
-- 🌱 I’m currently learning **Node.js and React**
+- 🌱 I’m currently learning **Machine Learning and AI**
 
 - 🤝 I’m looking for help with **creating interactive platforms**
 
